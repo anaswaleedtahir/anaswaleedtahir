@@ -48,13 +48,13 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anaswaleedtahir&theme=codeSTACKr)<br/>
 
-![](https://streak-stats.demolab.com/?user=anaswaleedtahir&theme=codeSTACKr&hide_border=false)<br/>
+![](https://streak-stats.demolab.com/?user=anaswaleedtahir&theme=codeSTACKr&hide_border=false&disable_animations=true)<br/>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anaswaleedtahir&theme=codeSTACKr)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anaswaleedtahir&theme=codeSTACKr)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=anaswaleedtahir&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy-orcin-eta.vercel.app/?username=anaswaleedtahir&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ## 🔝 Contribution Summary
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anaswaleedtahir&theme=codeSTACKr&utcOffset=5)

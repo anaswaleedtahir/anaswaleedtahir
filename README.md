@@ -48,7 +48,7 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anaswaleedtahir&theme=codeSTACKr)<br/>
 
-![](https://streak-stats.demolab.com/?user=anaswaleedtahir&theme=codeSTACKr&hide_border=false)<br/>
+-![](https://streak-stats.demolab.com/?user=anaswaleedtahir&theme=codeSTACKr&hide_border=false)<br/>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anaswaleedtahir&theme=codeSTACKr)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anaswaleedtahir&theme=codeSTACKr)

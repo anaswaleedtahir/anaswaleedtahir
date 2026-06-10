@@ -1,7 +1,7 @@
 ![gitartwork](gitartwork.svg)
 
 # 💫 About Me:
-🔭 Building AI-powered systems & Python microservices<br>🤖 Working with Claude Code & Amazon Bedrock to automate real-world workflows<br>👯 Open to collaborating on AI Engineering, FastAPI/Django backends & full-stack apps<br>🌱 Deepening expertise in distributed systems, cloud-native architecture & LLMs<br>📍 Lahore, Pakistan · BS Data Science @ University of the Punjab
+🔭 Building AI-powered systems & Python microservices<br>🤖 Working with Claude Code & Codex to automate real-world workflows<br>👯 Open to collaborating on AI Engineering, FastAPI/Django backends & full-stack apps<br>🌱 Deepening expertise in distributed systems, cloud-native architecture & LLMs<br>📍 Lahore, Pakistan · BS Data Science @ University of the Punjab
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anas-waleed-tahir-9a5b78214) [![DataCamp](https://img.shields.io/badge/DataCamp-05192D?logo=datacamp&logoColor=65FF8F)](https://www.datacamp.com/portfolio/anastahir)

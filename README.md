@@ -54,7 +54,7 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anaswaleedtahir&theme=codeSTACKr)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy-orcin-eta.vercel.app/?username=anaswaleedtahir&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy-fork-two.vercel.app/?username=anaswaleedtahir&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ## 🔝 Contribution Summary
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anaswaleedtahir&theme=codeSTACKr&utcOffset=5)

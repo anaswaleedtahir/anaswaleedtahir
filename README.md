@@ -13,7 +13,7 @@
 | Project | Description | Stack |
 |---------|-------------|-------|
 | [kosmos-ecommerce](https://github.com/anaswaleedtahir/kosmos-ecommerce) | Luxury cosmetics microservices platform — async FastAPI, Pub/Sub, Next.js storefront | FastAPI · PostgreSQL · Redis · Next.js |
-| [realm-key](https://github.com/anaswaleedtahir/realm-key) | Real-estate listings with advanced search, favourites & Docker deployment | Django · Python · Docker |
+| [strata](https://github.com/anaswaleedtahir/strata) | Real-estate listings with advanced search, favourites & Docker deployment | Django · Python · Docker |
 | [career-ops](https://github.com/anaswaleedtahir/career-ops) | AI-powered job search system — 14 skill modes, Go dashboard, PDF generation, batch processing | Claude Code · JavaScript · Go |
 | [diabetes-prediction](https://github.com/anaswaleedtahir/diabetes_prediction_system) | ML model predicting diabetic conditions in female patients | Python · scikit-learn · pandas |
 
